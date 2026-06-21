@@ -2,7 +2,7 @@
 
 This repo is just one loop: **Strip Miner**.
 
-The loop itself is in [`LOOP.md`](./LOOP.md), copied exactly as written.
+The loop itself is in [`LOOP.md`](./LOOP.md). It is the compact, submission-ready version.
 
 ## What This Is
 
